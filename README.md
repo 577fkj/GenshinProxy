@@ -6,7 +6,7 @@
 
 有 Xposed 环境请使用 `GenshinProxy-release.apk`
 
-无 Xposed 环境请使用 `genshin-impact-308-lspatched.apk`
+无 Xposed 环境请使用 `genshin-impact-308-lspatched.apk` 不支持`Android 9.0`以下设备!
 
 第一次使用请填写服务器地址后进入官服下载资源
 
