@@ -4,7 +4,7 @@
 
 # 使用教程
 
-有 Xposed 环境请使用 `GenshinProxy-release.apk`
+有 Xposed 环境请使用 `GenshinProxy-release.apk` 不支持 `EDXposed & 原版Xposed` 只支持 `LSPosed`
 
 无 Xposed 环境请使用 `genshin-impact-308-lspatched.apk` 不支持`Android 9.0`以下设备!
 
