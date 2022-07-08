@@ -1,6 +1,10 @@
 # GenshinProxy
 
-## 目前发现有人盗卖，已经进行闭源处理！
+# 广告
+
+承接客户端定制、插件定制、QQ机器人插件定制
+
+Telegram [小方块](https://t.me/xfk233)
 
 # 使用教程
 
@@ -23,10 +27,3 @@
 # 赞助
 
 ![](image/qrcode.png)
-
-# 狗墙
-
-## 各位请见到一个举报一个！
-
-![](image/sb2.png)
-![](image/sb.png)
