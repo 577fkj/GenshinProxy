@@ -1,5 +1,9 @@
 # GenshinProxy
 
+# 2.8 目前未解决4214的问题，请耐心等待！
+
+# 2.8 the problem of error code 4214 has not been solved at present, please wait patiently!
+
 # 广告 / Advertisement
 
 承接客户端定制、服务器搭建、插件定制、QQ机器人插件定制
