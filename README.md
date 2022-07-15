@@ -4,18 +4,6 @@
 
 # 2.8 the problem of error code 4214 has not been solved at present, please wait patiently!
 
-# 广告 / Advertisement
-
-承接客户端定制、服务器搭建、插件定制、QQ机器人插件定制
-
-Undertake client customization, server construction, plug-in customization, QQ robot plug-in customization
-
-非定制请不要联系！
-
-Please do not contact if you are not customized!
-
-Telegram [小方块](https://t.me/xfk233)
-
 # 使用教程
 
 有 Xposed 环境请使用 `GenshinProxy-release.apk` 不支持 `EDXposed & 原版Xposed` 只支持 `LSPosed`
